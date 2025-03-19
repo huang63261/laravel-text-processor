@@ -10,8 +10,8 @@
 
 ## 🛠 Tech Stack
 
-- **Laravel 11.x**
-- **PHP 8.3**
+- **Laravel 12.2**
+- **PHP 8.2**
 - **Docker & Docker Compose**
 
 ## 🎯 Getting Started
